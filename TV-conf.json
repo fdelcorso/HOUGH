@@ -1,0 +1,44 @@
+{
+    "TV-Gen_Tags":{
+
+                "delta_rho":                "0.005",    
+                "r0_centr":                 "1400", 
+                "r1_centr":                 "2600",
+                "r2_centr":                 "3800",
+                "r3_centr":                 "5000",
+                "r4_centr":                 "6200",
+                "r5_centr":                 "7400",
+                "r6_centr":                 "8600",
+                "r7_centr":                 "9800",
+
+                "delta_phi0":               "0.005",
+                "phi0_centr":               "16",
+
+                "qinvpt_min":               "10",
+                "qinvpt_bins":              "600",
+                "grana_qinvpt":              "0.017",
+
+                "phi0_min":                 "30",                                                                                                
+                "phi0_bins":                "1100",
+                "grana_phi0":               "0.008",
+
+                "A":                        "0.0003",
+                "n_layers":                 "8",
+                "n_cluster_per_layer":      "2",
+                "event_num":                "1",
+                "file_generation_number":   "1",
+                "treeindex_fake_cluster":   "1",
+
+                
+
+                "seed":                     "100"
+                
+
+                },
+                
+    "TV-Sim_Tags":{
+                "threshold":                "8",
+                "hitExtend_x":              "00000000"
+
+            }
+}
